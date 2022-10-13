@@ -1,12 +1,12 @@
 {
-	"name": "Tooper",
+	"name": "Grurple",
 	"version": "1.0",
-	"description": "Tooper is a IDK.",
-	"color": "#30EBFA",
+	"description": "Grey/Purple theme for Enmity.",
+	"color": "#9E00FF",
 	"authors": [
 		{
-			"name": "RedShkes",
-			"id": "879609646288076842"
+      "name": "Cmiffo",
+      "id": "889969882244997203"
 		}
 	],
 	"theme_color_map": {
