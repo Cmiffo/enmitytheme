@@ -2,7 +2,7 @@
   "name": "PurpleTheme",
   "version": "1.0.0",
   "description": "First Purple Theme",
-  "color": "#8000D4",
+  "color": "#9E00FF",
   "authors": [
     {
       "name": "Cmiffo",
@@ -15,14 +15,14 @@
     "alpha": 1
   },
   "theme_color_map": {
-    "BACKGROUND_PRIMARY": ["#393636", "#393636"],
+    "BACKGROUND_PRIMARY": ["#2C2C2C", "#2C2C2C"],
     "BACKGROUND_SECONDARY": ["rgba(0, 0, 0, 1)", "rgba(255, 255, 255, 1)"]
   },
   "colours": {
-    "PRIMARY_DARK": "#393636",
+    "PRIMARY_DARK": "#2C2C2C",
     "BRAND_NEW": "transparent"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#9E00FF"
+    "CHAT_GREY": "#2C2C2C"
   }
 }
